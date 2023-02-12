@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036916143218",
+    "project_id": "expense-kitaab",
+    "storage_bucket": "expense-kitaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036916143218:android:515eb808b94ca316d0beeb",
+        "android_client_info": {
+          "package_name": "com.testpro.kitaabkhaata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036916143218-cd8eqk60chfnh342jaupd5sf5rdte92r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testpro.kitaabkhaata",
+            "certificate_hash": "bcc6b02d11035080d00dc086ece2b2a80060fb86"
+          }
+        },
+        {
+          "client_id": "1036916143218-8udgftnecs4beq35a22su9h03qfgpdbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKlXAeizb7HM_hOIsqfR-1aoIe1x5Yu7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036916143218-8udgftnecs4beq35a22su9h03qfgpdbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
